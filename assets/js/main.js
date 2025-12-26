@@ -55,3 +55,4 @@ const observer = new IntersectionObserver(entries => {
 }, { threshold: 0.4 });
 
 observer.observe(statsSection);
+
